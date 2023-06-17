@@ -162,8 +162,9 @@
             "wallpaper":
             {
               "dark": {
-                "image": "wallpaper/shinobuDark.webm",
-                "first_frame": "wallpaper/shinobu1.jpg",
+                "image": "wallpaper/shinobu1.jpg",
+                //  "image": "wallpaper/shinobuDark.webm",
+                //  "first_frame": "wallpaper/shinobu1.jpg",
                 "text_color": "#f5b8e4",
                 "text_shadow": "#141313"
               },
