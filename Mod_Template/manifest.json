@@ -5,10 +5,9 @@
     {
         "name": "AstralCloud_SZA AKA Devak Gounden"
     },
-    "icons":
-    {
-        "512": "icon_512.png"
-    },
+  "icons": {
+    "512": "Shinobu_ICON.png"
+  },
     "manifest_version": 3,
     "mod":
     {
@@ -133,48 +132,46 @@
                 {
                     "gx_accent":
                     {
-                        "h": 85,
-                        "s": 100,
-                        "l": 72
+                        "h": 317,
+                        "s": 97,
+                        "l": 71
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 64,
-                        "l": 16
+                        "h": 268,
+                        "s": 100,
+                        "l": 32
                     }
                 },
                 "light":
                 {
                     "gx_accent":
                     {
-                        "h": 112,
-                        "s": 80,
-                        "l": 44
+                        "h": 171,
+                        "s": 97,
+                        "l": 64
                     },
                     "gx_secondary_base":
                     {
-                        "h": 272,
-                        "s": 32,
-                        "l": 16
+                        "h": 271,
+                        "s": 96,
+                        "l": 79
                     }
                 }
             },
             "wallpaper":
             {
-                "dark":
-                {   
-                    "image": "wallpaper/dark.png",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#757575"
-                },
-                "light":
-                {
-                    "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#0B000E"
-                }
+              "dark": {
+                "image": "wallpaper/shinobuDark.webm",
+                "first_frame": "wallpaper/shinobu1.jpg",
+                "text_color": "#f5b8e4",
+                "text_shadow": "#141313"
+              },
+              "light": {
+                "image": "wallpaper/Shinobu2.jpg",
+                "text_color": "#FFFFFF",
+                "text_shadow": "#0B000E"
+              }
             }
         },
         "schema_version": 1
