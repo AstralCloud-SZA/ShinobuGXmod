@@ -16,10 +16,9 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/DS_B1.mp3",
+                "music/DS_B2.mp3"
+                
             ],
             "browser_sounds":
             {
@@ -104,10 +103,11 @@
                     [
                         "webmodding/opera.css"
                     ],
-                    "matches":
-                    [
-                        "https://*.opera.com/*"
-                    ]
+                  "matches": 
+                  [
+                    "https://*.opera.com/*"
+                  ]
+
                 }
             ],
             "shaders":
@@ -163,8 +163,6 @@
             {
               "dark": {
                 "image": "wallpaper/shinobu1.jpg",
-                //  "image": "wallpaper/shinobuDark.webm",
-                //  "first_frame": "wallpaper/shinobu1.jpg",
                 "text_color": "#f5b8e4",
                 "text_shadow": "#141313"
               },
